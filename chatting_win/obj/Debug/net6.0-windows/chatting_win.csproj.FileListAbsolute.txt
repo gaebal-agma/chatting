@@ -1,0 +1,17 @@
+D:\c_edu\chatting\chatting_win\bin\Debug\net6.0-windows\chatting_win.exe
+D:\c_edu\chatting\chatting_win\bin\Debug\net6.0-windows\chatting_win.deps.json
+D:\c_edu\chatting\chatting_win\bin\Debug\net6.0-windows\chatting_win.runtimeconfig.json
+D:\c_edu\chatting\chatting_win\bin\Debug\net6.0-windows\chatting_win.dll
+D:\c_edu\chatting\chatting_win\bin\Debug\net6.0-windows\chatting_win.pdb
+D:\c_edu\chatting\chatting_win\obj\Debug\net6.0-windows\chatting_win.csproj.AssemblyReference.cache
+D:\c_edu\chatting\chatting_win\obj\Debug\net6.0-windows\chatting_win.Form1.resources
+D:\c_edu\chatting\chatting_win\obj\Debug\net6.0-windows\chatting_win.csproj.GenerateResource.cache
+D:\c_edu\chatting\chatting_win\obj\Debug\net6.0-windows\chatting_win.GeneratedMSBuildEditorConfig.editorconfig
+D:\c_edu\chatting\chatting_win\obj\Debug\net6.0-windows\chatting_win.AssemblyInfoInputs.cache
+D:\c_edu\chatting\chatting_win\obj\Debug\net6.0-windows\chatting_win.AssemblyInfo.cs
+D:\c_edu\chatting\chatting_win\obj\Debug\net6.0-windows\chatting_win.csproj.CoreCompileInputs.cache
+D:\c_edu\chatting\chatting_win\obj\Debug\net6.0-windows\chatting_win.dll
+D:\c_edu\chatting\chatting_win\obj\Debug\net6.0-windows\refint\chatting_win.dll
+D:\c_edu\chatting\chatting_win\obj\Debug\net6.0-windows\chatting_win.pdb
+D:\c_edu\chatting\chatting_win\obj\Debug\net6.0-windows\chatting_win.genruntimeconfig.cache
+D:\c_edu\chatting\chatting_win\obj\Debug\net6.0-windows\ref\chatting_win.dll
