@@ -1,0 +1,8 @@
+D:\c_edu\chatting\chatting_server\bin\Debug\chatting_server.exe.config
+D:\c_edu\chatting\chatting_server\bin\Debug\chatting_server.exe
+D:\c_edu\chatting\chatting_server\bin\Debug\chatting_server.pdb
+D:\c_edu\chatting\chatting_server\obj\Debug\chatting_server.csproj.AssemblyReference.cache
+D:\c_edu\chatting\chatting_server\obj\Debug\chatting_server.csproj.SuggestedBindingRedirects.cache
+D:\c_edu\chatting\chatting_server\obj\Debug\chatting_server.csproj.CoreCompileInputs.cache
+D:\c_edu\chatting\chatting_server\obj\Debug\chatting_server.exe
+D:\c_edu\chatting\chatting_server\obj\Debug\chatting_server.pdb
