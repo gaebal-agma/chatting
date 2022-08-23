@@ -25,6 +25,7 @@ namespace chatting_client
             InitializeComponent();
         }
 
+        //서버에 연결후 입력을 기다리는 함수를 쓰레드에 담음
         private void Form1_Load(object sender, EventArgs e)
         {
             client.Connect(localEndPoint);
